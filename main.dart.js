@@ -85048,7 +85048,7 @@ if(r>=650)return s.d
 else return s.c}},
 $S:572}
 A.B2.prototype={
-J(a){var s="https://i.ibb.co/n64JJmw/ic-logo.png",r=null,q=this.c,p=q?220*$.bg().geh():150*$.bg().geh()
+J(a){var s="https://i.ibb.co/n64JJmw/ic-logo.png",r=null,q=this.c,p=q?220*$.bg().geh():160*$.bg().geh()
 q=q?100*$.bg().gfc():250*$.bg().gfc()
 return new A.xm(new A.kG(r,s,r,1,r,r,r,r,B.El),s,new A.afE(),new A.afF(),q,p,B.eX,r)}}
 A.afE.prototype={
